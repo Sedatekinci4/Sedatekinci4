@@ -21,7 +21,7 @@
 
 - :computer: I'm learning everything.
 
-- :seedling: Currently exploring embedded software and advanced C programming
+- :seedling: Currently exploring embedded software and advanced C programming.
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
